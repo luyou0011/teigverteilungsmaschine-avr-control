@@ -3,7 +3,7 @@
 Dieses Projekt umfasst die Entwicklung einer Steuerung für einen rotierenden Teller, der Teig mithilfe einer Kelle gleichmäßig verteilt. Der Fokus liegt auf der präzisen Geschwindigkeitsregelung und der mechanischen Integration des Gesamtsystems.
 
 <p align="center">
-  <img src="media/Gehaeuse_2.png" width="400" alt="3D Modell der Maschine">
+  <img src="media/Gehaeuse_3.png" width="400" alt="3D Modell der Maschine">
   <br>
   <em>Abbildung 1: 3D-Konstruktion der automatisierten Teigverteilungsmaschine.</em>
 </p>
